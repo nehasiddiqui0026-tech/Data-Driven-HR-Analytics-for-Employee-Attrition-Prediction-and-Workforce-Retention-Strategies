@@ -86,7 +86,7 @@ For the Naïve Bayed model, there were 120 accurate predictions of class 0 and 1
 #### K-nearest Confusion Matrix
 ![T1](https://github.com/nehasiddiqui0026-tech/Data-Driven-HR-Analytics-for-Employee-Attrition-Prediction-and-Workforce-Retention-Strategies/blob/main/visualisations/K-nearest%20confusion%20matrix.png)
 #### Naïve Bayes Confusion Matrix
-![T1](https://github.com/nehasiddiqui0026-tech/Data-Driven-HR-Analytics-for-Employee-Attrition-Prediction-and-Workforce-Retention-Strategies/blob/main/visualisations/Naïve%20bayes%20confusion%20matrix.png)
+![T1](https://github.com/nehasiddiqui0026-tech/Data-Driven-HR-Analytics-for-Employee-Attrition-Prediction-and-Workforce-Retention-Strategies/blob/main/visualisations/Naive%20bayes%20confusion%20matrix.png)
 #### Logistic Regression Confusion Matrix
 ![T1](https://github.com/nehasiddiqui0026-tech/Data-Driven-HR-Analytics-for-Employee-Attrition-Prediction-and-Workforce-Retention-Strategies/blob/main/visualisations/Logistic%20regression%20confusion%20matrix.png)
 ### Predictive Modelling
